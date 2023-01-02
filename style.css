@@ -14,3 +14,15 @@
     border-radius: 10px;
 
 }
+.name{
+    font-size: 35px;
+    text-align: center;
+    height: 50px;
+    background-color: #67ED35;
+    background-clip: padding-box;
+    border: 1px solid #7ef851;
+    width: 500px;
+    margin-left: 370px;
+    box-shadow: 10px 15px 2px 1px #1f2e19;
+
+}
