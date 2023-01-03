@@ -47,3 +47,20 @@
     border: 3px solid #7ef851;
     box-shadow: 5px 5px 2px 1px #1f2e19;
 }
+
+.student{
+    text-align: center;
+    margin: 20px 20px;
+    background-color: rgb(132, 13, 168);
+    color: aliceblue;
+    
+
+}
+.stu-his{
+    padding: 20px 0;
+    font-size: 40px;
+    text-transform: capitalize;
+    width: auto;
+    box-shadow:5px 5px 2px 1px #1f2e19 ;
+   
+}
