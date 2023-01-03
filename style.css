@@ -16,13 +16,35 @@
 }
 .name{
     font-size: 35px;
-    text-align: center;
+    /* text-align: center; */
     height: 50px;
     background-color: #67ED35;
     background-clip: padding-box;
     border: 1px solid #7ef851;
-    width: 500px;
+    width: auto;
     margin-left: 370px;
     box-shadow: 10px 15px 2px 1px #1f2e19;
+    display: inline;
+    float: left;
+    margin: 0;
+}
 
+.sp{
+    width: 150px;
+    height: 50px;
+    float: left;
+}
+
+.head img{
+    float: left;
+}
+
+.sh{
+    width: 430px;
+    height: 50px;
+    float: right;
+}
+
+.head-name{
+    padding-bottom: 100px;
 }
